@@ -1,6 +1,6 @@
 # My Favorite Thing
-|<img src="assets/images/index.png" width="100%" height="100%" alt="index" />|
-|-|
+|<img src="assets/images/index.png" alt="index" />|
+|:-:|
 
 ## About
 대학교 2학년, HTML 강의를 수강하며 그동안 학습한 내용들을 활용하여 처음 제작한 순수 HTML 홈페이지. 당시 좋아했던 것들을 단순 나열하여 소개했다. 
