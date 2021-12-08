@@ -1,7 +1,9 @@
 # My Favorite Things
 |<img src="assets/images/index-top.png" alt="index top" />|<img src="assets/images/index-bottom.png" alt="index bottom" />
 |:-:|:-:|
+|index.html||
 |<img src="assets/images/bucket-list.png" alt="bucket list" />|<img src="assets/images/overseas-trip.png" alt="overseas trip" />|
+|bucket-list.html|overseas-trip.html|
 
 ## About
 대학교 2학년, HTML 강의를 수강하며 그동안 학습한 내용들을 활용하여 스스로 작성한 첫 HTML 홈페이지. 당시 가장 좋아하는 것들을 단순 나열하여 소개했다.
